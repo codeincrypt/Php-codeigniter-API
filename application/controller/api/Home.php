@@ -1,4 +1,4 @@
-<?php
+<?php 
 //require APPPATH . 'libraries/REST_Controller.php';
 class Home extends CI_Controller {
 	public function __construct() { 

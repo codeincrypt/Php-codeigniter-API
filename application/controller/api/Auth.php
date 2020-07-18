@@ -2,7 +2,7 @@
 if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 // Load the Rest Controller library
-//require APPPATH . '/libraries/REST_Controller.php';
+//require APPPATH . '/libraries/REST_Controller.php'; 
 
 class Auth extends CI_Controller {
 
